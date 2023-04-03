@@ -1,0 +1,17 @@
+input,output
+"If you're struggling to keep up with a fast-paced video, try slowing
+ it down to 0.5x to give yourself more time to process the information.",speed
+"You can slow down a video to 0.5x in most video players or editing software by selecting the
+ appropriate playback speed option.",speed
+make video 1x,one
+make video 1x.,one
+make video 2x.,two
+make video 3x.,three
+make video 4x.,four
+make video 5x.,five
+make video 6x.,six
+make video 7x.,seven
+make video 8x.,eighr
+make video 9x.,nine
+make video 10x.,ten
+make video 11x.,eleven
